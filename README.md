@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I am Utkarsh Sawarn. I am doing my B.tech in computer science and engineering with specialization in education technology from vit bhopal univeristy (class of 2029).Currently learning management skills and coading skills. My goal is to build strong coading as well as management skills.
 
 <!--
 **utkarshsawarn/utkarshsawarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
